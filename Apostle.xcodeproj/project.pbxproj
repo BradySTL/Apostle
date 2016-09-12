@@ -60,8 +60,16 @@
 				237FB2EC1CB33021005D3832 /* Assets.xcassets */,
 				237FB2EE1CB33021005D3832 /* LaunchScreen.storyboard */,
 				237FB2F11CB33021005D3832 /* Info.plist */,
+				237FFD9A1D862A7900A59B12 /* View */,
 			);
 			path = Apostle;
+			sourceTree = "<group>";
+		};
+		237FFD9A1D862A7900A59B12 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -286,6 +294,7 @@
 				237FB2F61CB33021005D3832 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
